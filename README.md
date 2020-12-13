@@ -19,7 +19,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 All dependencies are included, use "npm i" in your bash/terminal to install node modules.
 
 ## Usage
-
+![DEMO](images/eatdaburgerdemo.gif)
 
 ## License
 This project is not covered under any liscense.
@@ -29,6 +29,9 @@ No contributions are being accepted at this time
 
 ## Tests
 No tests included
+
+## Link
+https://safe-stream-41093.herokuapp.com/
 
 ## Questions
 If you have any additional questions, contact me by email or GitHub.
